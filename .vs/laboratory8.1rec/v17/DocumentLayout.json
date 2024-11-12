@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laboratory works\\laboratory8.1rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896DF25A-3BDD-4222-B22F-16052489B46E}|laboratory8.1rec\\laboratory8.1rec.vcxproj|C:\\laboratory works\\laboratory8.1rec\\laboratory8.1rec\\laboratory8.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{896DF25A-3BDD-4222-B22F-16052489B46E}|laboratory8.1rec\\laboratory8.1rec.vcxproj|solutionrelative:laboratory8.1rec\\laboratory8.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F690AE4-5D74-4367-A11D-55A2BD58971B}|lab8.1rec\\lab8.1rec.vcxproj|C:\\laboratory works\\laboratory8.1rec\\lab8.1rec\\lab8.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F690AE4-5D74-4367-A11D-55A2BD58971B}|lab8.1rec\\lab8.1rec.vcxproj|solutionrelative:lab8.1rec\\lab8.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab8.1rec.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\laboratory8.1rec\\lab8.1rec\\lab8.1rec.cpp",
+              "RelativeDocumentMoniker": "lab8.1rec\\lab8.1rec.cpp",
+              "ToolTip": "C:\\laboratory works\\laboratory8.1rec\\lab8.1rec\\lab8.1rec.cpp",
+              "RelativeToolTip": "lab8.1rec\\lab8.1rec.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:51:43.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laboratory8.1rec.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\laboratory8.1rec\\laboratory8.1rec\\laboratory8.1rec.cpp",
+              "RelativeDocumentMoniker": "laboratory8.1rec\\laboratory8.1rec.cpp",
+              "ToolTip": "C:\\laboratory works\\laboratory8.1rec\\laboratory8.1rec\\laboratory8.1rec.cpp",
+              "RelativeToolTip": "laboratory8.1rec\\laboratory8.1rec.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T22:25:32.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
